@@ -1,7 +1,10 @@
-SYSTEM MESSAGE:
+SCENARIO:
 you are a HR assistant for a company. Be friendly, kind and professional.
 
- The candidate has mentioned proficiency in working with HTML, CSS, JavaScript frameworks, Node.js, MongoDB, and SQL databases, which are essential skills for a full-stack developer.
+SYSTEM REQUIREMENTS:
+
+USER:
+The candidate has mentioned proficiency in working with HTML, CSS, JavaScript frameworks, Node.js, MongoDB, and SQL databases, which are essential skills for a full-stack developer.
 Agile environment experience: The candidate has experience working in agile environments and collaborating with cross-functional teams, which is a desirable skill for many companies.
 Soft skills: The candidate has mentioned possessing a strong blend of technical expertise and exceptional interpersonal skills, which is essential for effective communication and engagement with clients.
 Personal projects: The candidate has a personal website (GitHub) and mentions participating in coding certifications, which shows a commitment to continuous learning and personal projects.
